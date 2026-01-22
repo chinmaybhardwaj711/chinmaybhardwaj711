@@ -1,4 +1,30 @@
-## Hi there 👋
+## Chinmay Bhardwaj
+
+3rd Year B.Tech Student (Electronics Engineering) | Aspiring Software Engineer
+
+### About
+I am a third-year Electronics Engineering student with a strong interest in software development and problem solving.  
+I am currently building my foundation in Data Structures & Algorithms and gaining practical experience through backend and full-stack development projects.
+
+### Technical Skills
+- Programming: Java  
+- Data Structures: Arrays, Strings, Linked Lists  
+- Backend: Node.js, Express.js  
+- Frontend: React  
+- Database: MongoDB  
+- Tools: Git, GitHub  
+
+### Current Focus
+- Strengthening DSA fundamentals and coding logic  
+- Building and refining backend-focused projects  
+- Understanding real-world application architecture and workflows  
+
+### Projects
+- Airbnb-style Property Listing Platform (learning-focused full-stack project)
+
+### Profiles
+- GitHub: https://github.com/chinmaybhardwaj711  
+- LinkedIn: https://www.linkedin.com/in/chinmay-bhardwaj-0b9a36316/
 
 <!--
 **chinmaybhardwaj711/chinmaybhardwaj711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

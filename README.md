@@ -21,6 +21,12 @@ I am currently building my foundation in Data Structures & Algorithms and gainin
 
 ### Projects
 - Airbnb-style Property Listing Platform (learning-focused full-stack project)
+  
+### Data Structures & Algorithms
+- Regularly practicing DSA problems on arrays, strings, linked lists, trees, and recursion
+- Maintaining solutions with clean and readable code
+- Repository: https://github.com/chinmaybhardwaj711/DSA
+
 
 ### Profiles
 - GitHub: https://github.com/chinmaybhardwaj711  

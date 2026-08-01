@@ -1,48 +1,183 @@
-## Chinmay Bhardwaj
+# Hi 👋, I'm Chinmay Bhardwaj
 
-3rd Year B.Tech Student (Electronics Engineering) | Aspiring Software Engineer
+### Final Year B.Tech Student (Electronics Engineering) | Software Engineer | Java & Backend Developer
 
-### About
-I am a third-year Electronics Engineering student with a strong interest in software development and problem solving.  
-I am currently building my foundation in Data Structures & Algorithms and gaining practical experience through backend and full-stack development projects.
+I'm a final-year B.Tech student at **Jaypee Institute of Information Technology (JIIT), Noida**, passionate about building scalable backend systems, solving Data Structures & Algorithms problems, and developing real-world software applications.
 
-### Technical Skills
-- Programming: Java  
-- Data Structures: Arrays, Strings, Linked Lists  
-- Backend: Node.js, Express.js  
-- Frontend: React  
-- Database: MongoDB  
-- Tools: Git, GitHub  
+Currently, I'm focused on backend development, system design fundamentals, and creating production-ready projects while preparing for Software Engineering roles.
 
-### Current Focus
-- Strengthening DSA fundamentals and coding logic  
-- Building and refining backend-focused projects  
-- Understanding real-world application architecture and workflows  
+---
 
-### Projects
-- Airbnb-style Property Listing Platform (learning-focused full-stack project)
-  
-### Data Structures & Algorithms
-- Regularly practicing DSA problems on arrays, strings, linked lists, trees, and recursion
-- Maintaining solutions with clean and readable code
-- Repository: https://github.com/chinmaybhardwaj711/DSA
+## 🚀 About Me
 
+- 🎓 Final Year B.Tech Student (Electronics Engineering)
+- 💻 Aspiring Software Engineer
+- ☕ Strong in Java and Backend Development
+- 📚 Actively practicing Data Structures & Algorithms
+- 🌱 Currently exploring scalable backend architecture, distributed systems, and system design
+- 🎯 Seeking Software Engineering Internship & Full-Time Opportunities
 
-### Profiles
-- GitHub: https://github.com/chinmaybhardwaj711  
-- LinkedIn: https://www.linkedin.com/in/chinmay-bhardwaj-0b9a36316/
+---
 
-<!--
-**chinmaybhardwaj711/chinmaybhardwaj711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🛠️ Tech Stack
 
-Here are some ideas to get you started:
+### Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- JavaScript
+- Python
+- C
+- SQL
+
+### Backend
+
+- Node.js
+- Express.js
+- REST APIs
+- Passport.js
+
+### Frontend
+
+- React
+- HTML5
+- CSS3
+- Bootstrap
+- EJS
+
+### Databases
+
+- MongoDB
+- ChromaDB
+- Redis
+
+### AI / LLM
+
+- Retrieval-Augmented Generation (RAG)
+- LangChain
+- Sentence Transformers
+- FAISS
+- Groq API
+
+### Cloud & DevOps
+
+- Docker
+- Docker Compose
+- GitHub Actions
+
+### Tools & Technologies
+
+- Git
+- GitHub
+- Postman
+- Cloudinary
+- Mapbox
+- Jest
+- MongoDB Atlas
+
+---
+
+# 💼 Featured Projects
+
+## 🏡 StayForge — Property Rental Platform
+
+A full-stack property rental platform inspired by Airbnb, built with a production-oriented backend architecture.
+
+### Features
+
+- Secure Authentication & Authorization
+- Property Listings Management
+- Booking System
+- Reviews & Ratings
+- Image Uploads using Cloudinary
+- Interactive Maps with Mapbox
+- Search, Filters & Pagination
+- Redis Caching
+- MongoDB Transactions
+- Dockerized Deployment
+- CI/CD using GitHub Actions
+
+### Tech Stack
+
+Node.js • Express.js • MongoDB • Redis • Passport.js • Cloudinary • Mapbox • Docker • GitHub Actions • Jest
+
+---
+
+## 🤖 Placement Preparation Bot (RAG)
+
+An AI-powered Placement Preparation Assistant that answers interview and placement-related questions using Retrieval-Augmented Generation (RAG).
+
+### Features
+
+- PDF Knowledge Base
+- Semantic Search
+- Context-Aware Question Answering
+- Vector Database Retrieval
+- Fast Document Search
+- LLM-Powered Responses
+
+### Tech Stack
+
+Python • LangChain • ChromaDB • Sentence Transformers • FAISS • Groq API
+
+---
+
+# 📚 Data Structures & Algorithms
+
+I regularly solve DSA problems to improve problem-solving skills and prepare for software engineering interviews.
+
+### Topics Covered
+
+- Arrays
+- Strings
+- Linked Lists
+- Stacks
+- Queues
+- Hashing
+- Trees
+- Binary Search Trees
+- Heaps
+- Recursion
+- Binary Search
+- Graphs
+- Dynamic Programming
+
+📌 **DSA Repository**
+
+➡️ https://github.com/chinmaybhardwaj711/DSA
+
+---
+
+# 🌱 Currently Learning
+
+- Advanced Data Structures & Algorithms
+- Low-Level Design (LLD)
+- High-Level System Design (HLD)
+- Backend Scalability
+- Distributed Systems
+- Microservices Fundamentals
+
+---
+
+# 📈 GitHub Goals
+
+- 🚀 Build production-ready backend applications
+- 📚 Strengthen DSA and problem-solving skills
+- ⚙️ Learn scalable system design
+- 🤖 Build AI-powered developer tools
+- 🌍 Contribute to Open Source
+
+---
+
+# 🤝 Connect With Me
+
+📧 LinkedIn
+
+➡️ https://www.linkedin.com/in/chinmay-bhardwaj-0b9a36316
+
+💻 GitHub
+
+➡️ https://github.com/chinmaybhardwaj711
+
+---
+
+> *"Code. Learn. Build. Improve. Repeat."* 🚀
